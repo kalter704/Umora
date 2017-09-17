@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Умора</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="loading">Загрузка...</string>
+    <string name="share">Share</string>
+    <string name="share_text">%1$s\n\nЕще больше интересного можно найти в приложение Umora в Google PLay: https://play.google.com/store/apps/details?id=ru.comp.vas.umora</string>
+</resources>

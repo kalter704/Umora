@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sites">
+        <item>bash.im</item>
+        <item>zadolba.li</item>
+        <item>anekdot.ru</item>
+        <item>anekdot.ru</item>
+        <item>ideer.ru</item>
+        <item>det.org.ru</item>
+    </array>
+
+    <array name="names">
+        <item>bash</item>
+        <item>zadolbali</item>
+        <item>new anekdot</item>
+        <item>new stihi</item>
+        <item>ideer</item>
+        <item>Deti</item>
+    </array>
+
+    <array name="desc">
+        <item>Цитатник Рунета</item>
+        <item>Задолба!ли</item>
+        <item>Свежие анекдоты</item>
+        <item>Стишки</item>
+        <item>Подслушано</item>
+        <item>Говорят дети</item>
+    </array>
+</resources>
